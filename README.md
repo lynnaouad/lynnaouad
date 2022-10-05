@@ -1,10 +1,8 @@
-<img width="500" src="">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynnaouad&label=Profile%20views&color=0e75b6&style=flat" alt="lynnaouad" /> </p>
 
 <div align="center">
   <img alt="coding"  width="100" height="100" src="https://media.tenor.com/Dc8nFwst79AAAAAj/kek-angry.gif"><br>
- 
+  <img width="500" src="https://user-images.githubusercontent.com/82551484/194008614-77b4b745-b480-4018-b466-e8d8d2994702.gif">
   <p>
     <a href="https://linkedin.com/in/lynn aouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lynn aouad" height="30" width="40" /></a>
     <a href="https://fb.com/lynn aouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lynn aouad" height="30" width="40" /></a>
@@ -13,24 +11,35 @@
   </p>
 </div>
 
-<h3 align="left">About me:</h3>
-<ul>
-  <li>
-    <p align="left"> I am a hard working, honest individual. I am a good timekeeper, always craving for knowledge and learning new skills. I am able to work in a busy environment and produce high standards of work. I work well in a team but also on my own as I like to set myself goals which I will achieve. I am outgoing and tactful, and able to listen effectively when solving problems. I have a creative mind and am always up for new challenges, and possess excellent communication skills.</p>
+<div align="left">
+<h3>About me:</h3>
+  <img align="right" alt="coding"  width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
+  <ul >
+    <li>
+       I am a hard working, honest individual. I am a good timekeeper, always craving for knowledge and learning new skills. I am able to work in a busy environment and produce high standards of work.
+    </li>
+    <li> I work well in a team but also on my own as I like to set myself goals which I will achieve. I am outgoing and tactful, and able to listen effectively when solving problems. I have a creative mind and am always up for new challenges, and possess excellent communication skills.
     </li>
     <li>
-      <p align="left">As far back as I can remember when I was young my parents would always ask me about things : "How do I access my email? How do I get the internet on my phone? How do I download this song? ..." and from here I started becoming interested in Technology. Throughout my years in higher education, especially within the field of computer science, this interest in learning new things grew, and I started building upon the knowledge that I gained. </p>
+        As far back as I can remember when I was young my parents would always ask me about things : "How do I access my email? How do I get the internet on my phone? ..." and from here I started becoming interested in Technology. 
     </li>
-</ul>
+    <li>Throughout my years in higher education, especially within the field of computer science, this interest in learning new things grew, and I started building upon the knowledge that I gained.
+    </li>
+  </ul>  
+</div>
 
-<img align="right" alt="coding"  width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
-
+<div>
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynnaouad&show_icons=true&locale=en&layout=compact" alt="lynnaouad" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynnaouad&show_icons=true&locale=en&layout=compact" alt="lynnaouad" /></p>
+  <p align="right" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lynnaouad&show_icons=true&locale=en" alt="lynnaouad" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnaouad&show_icons=true&locale=en" alt="lynnaouad" /></p>
+<!-- <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lynnaouad&show_icons=true&locale=en" alt="lynnaouad" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnaouad&" alt="lynnaouad" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnaouad&" alt="lynnaouad" /></p> -->
 
