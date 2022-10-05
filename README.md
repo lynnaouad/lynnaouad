@@ -2,10 +2,10 @@
 
 <div align="center">
   <img alt="coding"  width="100" height="100" src="https://media.tenor.com/Dc8nFwst79AAAAAj/kek-angry.gif"><br>
-  <img width="500" src="https://user-images.githubusercontent.com/82551484/194008614-77b4b745-b480-4018-b466-e8d8d2994702.gif">
+  <img width="500" src="https://user-images.githubusercontent.com/82551484/194021731-d807ae13-b7a1-4587-bee6-f80cb43dbda1.gif">
   <p>
-    <a href="https://linkedin.com/in/lynn aouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lynn aouad" height="30" width="40" /></a>
-    <a href="https://fb.com/lynn aouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lynn aouad" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/lynn-aouad-353171224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lynn aouad" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/lynn.aouad.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lynn aouad" height="30" width="40" /></a>
     <a href="https://instagram.com/lynn_aouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lynn_aouad" height="30" width="40" /></a>
        <a href="mailto:lynnaouad34@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjyMub5re7ZkmcZ3sa85cCuWT5k1wZ2JICA&usqp=CAU" alt="lynn_aouad" height="30" width="30" /></a>
   </p>
