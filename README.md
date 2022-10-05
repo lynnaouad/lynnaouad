@@ -37,8 +37,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynnaouad&show_icons=true&locale=en&layout=compact" alt="lynnaouad" /></p>
-
-<p align="left" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lynnaouad&show_icons=true&locale=en" alt="lynnaouad" /></p>
-
-<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnaouad&" alt="lynnaouad" /></p> -->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lynnaouad&" alt="lynnaouad" /></p> 
 
