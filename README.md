@@ -37,7 +37,7 @@
 
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynnaouad&show_icons=true&locale=en&layout=compact" alt="lynnaouad" /></p>
-  <p align="right" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lynnaouad&show_icons=true&locale=en" alt="lynnaouad" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lynnaouad&show_icons=true&locale=en" alt="lynnaouad" /></p>
 </div>
 
 <!-- <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lynnaouad&show_icons=true&locale=en" alt="lynnaouad" /></p> -->
