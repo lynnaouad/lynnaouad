@@ -24,16 +24,7 @@
 
   <ul >
     <li>
-       I am a hard working, honest individual. I am a good timekeeper, always craving for knowledge and learning new skills. I am able to work in a busy environment and produce high standards of work.
-    </li>
-    <li> I work well in a team but also on my own as I like to set myself goals which I will achieve. I am outgoing and tactful, and able to listen effectively when solving problems. I have a creative mind and am always up for new challenges, and possess excellent communication skills.
-    </li>
-    <!--
-    <li>
-        As far back as I can remember when I was young my parents would always ask me about things : "How do I access my email? How do I get the internet on my phone? ..." and from here I started becoming interested in Technology. 
-    </li>
-    -->
-    <li>Throughout my years in higher education, especially within the field of computer science, this interest in learning new things grew, and I started building upon the knowledge that I gained.
+      Passionate full-stack software developer with expertise in building robust, scalable web applications using C# and ASP.NET Core. I combine strong backend development skills in API design, SQL Server database optimization, and server-side architecture with a sharp eye for frontend design and user-friendly interfaces.
     </li>
   </ul>
 </div>
