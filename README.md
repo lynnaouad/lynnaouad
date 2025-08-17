@@ -22,11 +22,9 @@
 <div>
   <img align="right" alt="coding"  width="200" height="200" src="https://user-images.githubusercontent.com/82551484/194027842-7930b5ea-bdf1-4490-8500-a5e9edfe0b82.gif"> 
 
-  <ul >
-    <li>
-      Passionate full-stack software developer with expertise in building robust, scalable web applications using C# and ASP.NET Core. I combine strong backend development skills in API design, SQL Server database optimization, and server-side architecture with a sharp eye for frontend design and user-friendly interfaces.
-    </li>
-  </ul>
+<p>
+    Passionate full-stack software developer with expertise in building robust, scalable web applications using C# and ASP.NET Core. I combine strong backend development skills in API design, SQL Server database optimization, and server-side architecture with a sharp eye for frontend design and user-friendly interfaces.
+</p>
 </div>
 
 <br>
